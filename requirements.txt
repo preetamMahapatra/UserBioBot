@@ -1,0 +1,17 @@
+python-dotenv 
+streamlit 
+google-generativeai 
+langchain-chroma 
+langchain-community 
+langchain-core 
+langchain-google-genai 
+langgraph 
+tenacity 
+typing-extensions
+gpt4all
+unstructured
+unstructured[pdf]
+langgraph[sqlite]
+aiosqlite
+# If you later decide to use PostgreSQL for chat history:
+# pip install 'langchain-community[pg]' psycopg2-binary
